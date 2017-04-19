@@ -28,7 +28,7 @@ Windows,Mac,Linux
 
 #::截图照片
 
-![主界面](article/Pythontutorial/PythonTutorial.png)
+![主界面](PythonTutorial.png)
 
 #::官方网站
 
@@ -212,7 +212,7 @@ Anaconda 4.1.1 (64-bit)”，也说明该发行版默认的环境是 Python 2.7�
 
 ### 常用标准库
 
-![标准库]({@UP_DIR}article/Pythontutorial/StandLib.png)
+![标准库](StandLib.png)
 
 标准库
 
@@ -242,7 +242,7 @@ Anaconda 4.1.1 (64-bit)”，也说明该发行版默认的环境是 Python 2.7�
 
 ### 编写一些范例
 
-![Python DEMO]({@UP_DIR}article/Pythontutorial/PythonDemo.png)
+![Python DEMO](PythonDemo.png)
 
 Python DEMO
 

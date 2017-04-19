@@ -28,7 +28,7 @@ Windows
 
 #::截图照片
 
-![](article/Everything/Everything.png)
+![](Everything.png)
 
 #::官方网站
 

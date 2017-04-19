@@ -28,7 +28,7 @@ Windows
 
 #::截图照片
 
-![](article/Totalcmd/Totalcmd.png)
+![](Totalcmd.png)
 
 #::官方网站
 

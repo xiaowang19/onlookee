@@ -28,7 +28,7 @@ Windows
 
 #::截图照片
 
-![](article/Locate32/Locate32.png)
+![](Locate32.png)
 
 #::官方网站
 
@@ -89,9 +89,9 @@ Locate32
 相对于 Everything
 只有一个查询输入框，要记住各种查询表达式而言，显然要简单、友好得多。
 
-![名称和位置]({@UP_DIR}article/Locate32/Locate32_name_and_pos.png)
-![大小与日期]({@UP_DIR}article/Locate32/Locate32_size_and_datetime.png)
-![高级筛选]({@UP_DIR}article/Locate32/Locate32_advance.png)
+![名称和位置](Locate32_name_and_pos.png)
+![大小与日期](Locate32_size_and_datetime.png)
+![高级筛选](Locate32_advance.png)
 
 总结
 ----

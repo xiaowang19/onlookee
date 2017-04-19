@@ -28,7 +28,7 @@ Windows,Mac,Linux
 
 #::截图照片
 
-![主界面](article/Meetpython/MeetPython.png)
+![主界面](MeetPython.png)
 
 #::官方网站
 

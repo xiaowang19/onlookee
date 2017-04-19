@@ -28,7 +28,7 @@ Windows,Mac,Linux
 
 #::截图照片
 
-![主界面](article/Pythonresource/PythonResource.png)
+![主界面](PythonResource.png)
 
 #::官方网站
 
@@ -43,7 +43,7 @@ Windows,Mac,Linux
 [GitHub - Python资源大全中文版](https://github.com/jobbole/awesome-python-cn "")
 [资源 - 伯乐在线](http://hao.jobbole.com/?catid=144 "")
 [优秀Python学习资源收集汇总（强烈推荐） - Alexia(minmin) - 博客园](http://www.cnblogs.com/lanxuezaipiao/p/3543658.html "")
-[一位大牛整理的Python资源( - frank\_good的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/frank\_good/article/details/52635047 "")
+[一位大牛整理的Python资源( - frank\_good的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/frank\_good/52635047 "")
 
 #::文章摘要
 

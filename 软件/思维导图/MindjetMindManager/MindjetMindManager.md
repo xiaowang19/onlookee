@@ -28,7 +28,7 @@ Windows
 
 #::截图照片
 
-![主界面](article/Mindjetmindmanager/MindjetMindManager.png)
+![主界面](MindjetMindManager.png)
 
 #::官方网站
 

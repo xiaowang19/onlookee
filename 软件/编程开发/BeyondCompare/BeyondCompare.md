@@ -28,7 +28,7 @@ Windows,Mac,Linux
 
 #::截图照片
 
-![主界面](article/Beyondcompare/BeyondCompare.png)
+![主界面](BeyondCompare.png)
 
 #::官方网站
 
@@ -71,11 +71,11 @@ TA 来对比两份代码的变化；对于文字工作者，可以用 TA
 来找出文本哪里被修改过；对于大多数用户，你还能用 TA
 来对比文件夹之间的差异，你可以对文件合并、登记快照、或者与FTP服务器进行**同步**。
 
-![文件比较]({@UP_DIR}article/Beyondcompare/text.png)
+![文件比较](text.png)
 
 文件比较
 
-![文件夹比较]({@UP_DIR}article/Beyondcompare/folder.png)
+![文件夹比较](folder.png)
 
 文件夹比较
 

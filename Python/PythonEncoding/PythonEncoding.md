@@ -28,7 +28,7 @@ Windows,Mac,Linux
 
 #::截图照片
 
-![主界面](article/Pythonencoding/PythonEncoding.png)
+![主界面](PythonEncoding.png)
 
 #::官方网站
 
@@ -39,7 +39,7 @@ Windows,Mac,Linux
 [Python 2.x 字符编码终极指南 - Python - 伯乐在线](http://python.jobbole.com/87145/ "")
 [Python 编码终极版 - MR.QiGao - 博客园](http://www.cnblogs.com/zhangqigao/p/6490213.html "")
 [Python 编码问题之终极解决 - fkissx - 博客园](http://www.cnblogs.com/fkissx/p/5417363.html "")
-[26 Python 2.x 字符编码终极指南 - 忧桑的小兔子 - 博客频道 - CSDN.NET](http://blog.csdn.net/lis\_12/article/details/54136285 "")
+[26 Python 2.x 字符编码终极指南 - 忧桑的小兔子 - 博客频道 - CSDN.NET](http://blog.csdn.net/lis\_12/54136285 "")
 [Python 编码处理-str 与 Unicode 的区别](http://www.mamicode.com/info-detail-308445.html "")
 [Python 中的 str 与 unicode 处理方法 - Python - 伯乐在线](http://python.jobbole.com/81244/ "")
 

@@ -28,7 +28,7 @@ Windows,Mac,Linux
 
 #::截图照片
 
-![主界面](article/Pythonimport/PythonImport.png)
+![主界面](PythonImport.png)
 
 #::官方网站
 

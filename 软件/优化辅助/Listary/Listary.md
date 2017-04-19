@@ -28,8 +28,8 @@ Windows
 
 #::截图照片
 
-![](article/Listary/Listary.png)
-![](article/Listary/Listary_menu.jpg)
+![](Listary.png)
+![](Listary_menu.jpg)
 
 #::官方网站
 
