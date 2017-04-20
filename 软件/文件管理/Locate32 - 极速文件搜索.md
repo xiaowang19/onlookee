@@ -7,6 +7,7 @@ Windows,效率,搜索,文件,文件夹,热键,神器,速度
 #::Copyright
 
 + 作者 = xiaowang (xer345@126.com)
++ 日期 = 2017-04-05
 + 时间 = 2017-04-07 22:13:10 / 2017-04-20 16:58:45
 + 链接 = [Locate32 - 极速文件搜索](http://onlookee.com/?c=Article&a=view&id=5)
 + 版本 = 1.0

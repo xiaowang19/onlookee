@@ -7,6 +7,7 @@ Python,哲学
 #::Copyright
 
 + 作者 = xiaowang (xer345@126.com)
++ 日期 = 2017-04-07
 + 时间 = 2017-04-08 00:46:50 / 2017-04-20 16:58:37
 + 链接 = [Python 哲学](http://onlookee.com/?c=Article&a=view&id=6)
 + 版本 = 1.0

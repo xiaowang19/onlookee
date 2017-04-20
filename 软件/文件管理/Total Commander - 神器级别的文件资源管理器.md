@@ -7,6 +7,7 @@ Windows,效率,工作,文件,文件夹,热键,神器,管理
 #::Copyright
 
 + 作者 = xiaowang (xer345@126.com)
++ 日期 = 2017-02-26
 + 时间 = 2017-02-27 10:10:02 / 2017-04-20 16:58:46
 + 链接 = [Total Commander - 神器级别的文件资源管理器](http://onlookee.com/?c=Article&a=view&id=2)
 + 版本 = 1.0

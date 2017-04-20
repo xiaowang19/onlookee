@@ -7,6 +7,7 @@ Windows,效率,搜索,文件,文件夹,热键,神器,速度
 #::Copyright
 
 + 作者 = xiaowang (xer345@126.com)
++ 日期 = 2017-02-25
 + 时间 = 2017-02-27 10:33:59 / 2017-04-20 16:58:44
 + 链接 = [Everything - 极速文件搜索神器，快得让人震惊](http://onlookee.com/?c=Article&a=view&id=3)
 + 版本 = 1.0

@@ -7,6 +7,7 @@ Python,指南
 #::Copyright
 
 + 作者 = xiaowang (xer345@126.com)
++ 日期 = 2017-04-11
 + 时间 = 2017-04-11 18:25:48 / 2017-04-20 16:58:39
 + 链接 = [Python 学习指南](http://onlookee.com/?c=Article&a=view&id=7)
 + 版本 = 1.0

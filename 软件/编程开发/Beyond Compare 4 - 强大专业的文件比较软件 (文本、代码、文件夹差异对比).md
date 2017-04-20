@@ -7,6 +7,7 @@
 #::Copyright
 
 + 作者 = xiaowang (xer345@126.com)
++ 日期 = 2017-04-02
 + 时间 = 2017-04-02 18:04:05 / 2017-04-20 16:58:46
 + 链接 = [Beyond Compare 4 - 强大专业的文件比较软件 (文本/代码/文件夹差异对比)](http://onlookee.com/?c=Article&a=view&id=4)
 + 版本 = 1.0
