@@ -1,50 +1,26 @@
 % Locate32 - 极速文件搜索
 
----
-
-@::id=5
-@::htmlname=Locate32
-@::pubtime=2017-04-07 22:13:10
-
-#::文章标题
-
-Locate32 - 极速文件搜索
-
-#::文章类别树
-
-软件,文件管理
-
-#::文章类别表
-
-文件管理,文件搜索
-
-#::文章标签
-
 Windows,效率,搜索,文件,文件夹,热键,神器,速度
 
-#::适用平台
+---
 
-Windows
+#::Copyright
+
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-07 22:13:10 / 2017-04-20 16:58:45
++ 链接 = [Locate32 - 极速文件搜索](http://onlookee.com/?c=Article&a=view&id=5)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
+
+#::文章信息
+
++ 类别 = 软件,文件管理
++ 平台 = Windows
++ 官网 = [Locate32](http://locate32.cogit.net/ "")
 
 #::截图照片
 
-![](Locate32.png)
-
-#::官方网站
-
-[Locate32](http://locate32.cogit.net/ "")
-
-#::来源网站
-
-[[更新]Locate32 – 快速便捷的本地搜索 - 小众软件](http://www.appinn.com/locate32/ "")
-
-#::文章摘要
-
-电脑硬件飞速发展，硬盘越来越大，电脑里的文件以指数级的速度在增长。这个时候我极需这样一款工具，可以快速找到目标文件。
-
-神器 [Everthing](http://onlookee.com/?artitle=locate32) 很好，但是，当需要更多筛选条件的时候， Everything 对于一般用户而言，就显得有点复杂了。
-
-Locate32 绿色版是款基于文件、文件夹名称搜索的软件。
++ ![](images/Locate32.png)
 
 #::文章内容
 
@@ -89,9 +65,9 @@ Locate32
 相对于 Everything
 只有一个查询输入框，要记住各种查询表达式而言，显然要简单、友好得多。
 
-![名称和位置](Locate32_name_and_pos.png)
-![大小与日期](Locate32_size_and_datetime.png)
-![高级筛选](Locate32_advance.png)
+![名称和位置](images/Locate32_name_and_pos.png)
+![大小与日期](images/Locate32_size_and_datetime.png)
+![高级筛选](images/Locate32_advance.png)
 
 总结
 ----
@@ -105,19 +81,5 @@ Everthing 很好，但有时候还是会不知所措。这个时候，你就需�
 如果你要搜索的文件是图片，或者，是你已经不太记得的文件，则可以使用
 Locate32 来搜索。
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[官网下载](http://locate32.cogit.net/ "")
-[百度云](http://pan.baidu.com/s/1o7Aej94 "4dp9")
 
 #::theEnd

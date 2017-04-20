@@ -1,50 +1,26 @@
 % Python 学习指南
 
----
-
-@::id=7
-@::htmlname=PythonTutorial
-@::pubtime=2017-04-11 18:25:48
-
-#::文章标题
-
-Python 学习指南
-
-#::文章类别树
-
-Python
-
-#::文章类别表
-
-Python
-
-#::文章标签
-
 Python,指南
 
-#::适用平台
+---
 
-Windows,Mac,Linux
+#::Copyright
+
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-11 18:25:48 / 2017-04-20 16:58:39
++ 链接 = [Python 学习指南](http://onlookee.com/?c=Article&a=view&id=7)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
+
+#::文章信息
+
++ 类别 = Python
++ 平台 = Windows,Mac,Linux
++ 官网 = [Welcome to Python.org](https://www.python.org/ "")
 
 #::截图照片
 
-![主界面](PythonTutorial.png)
-
-#::官方网站
-
-[Welcome to Python.org](https://www.python.org/ "")
-
-#::来源网站
-
-[如何系统地自学 Python？ - 知乎](https://www.zhihu.com/question/29138020 "")
-[GitHub - lijin-THU/notes-python: 中文 Python 笔记](https://github.com/lijin-THU/notes-python "")
-[GitHub - shfanzie/Systematically\_self-study\_Python: 记录个人自学Python的过程，持续更新。](https://github.com/shfanzie/Systematically\_self-study\_Python "")
-[Anaconda使用总结 - Python - 伯乐在线](http://python.jobbole.com/86236/ "")
-[GitHub - lijin-THU/notes-python: 中文 Python 笔记](https://github.com/lijin-THU/notes-python "")
-
-#::文章摘要
-
-作为主流的动态语言，Python不仅简单易学、移植性好，而且拥有强大丰富的库的支持。此外，Python强大的可扩展性，让开发人员既可以非常容易地利用C/C++编写Python的扩展模块，还能将Python嵌入到C/C++程序中，为自己的系统添加动态扩展和动态编程的能力。
++ ![主界面](images/PythonTutorial.png)
 
 #::文章内容
 
@@ -212,7 +188,7 @@ Anaconda 4.1.1 (64-bit)”，也说明该发行版默认的环境是 Python 2.7�
 
 ### 常用标准库
 
-![标准库](StandLib.png)
+![标准库](images/StandLib.png)
 
 标准库
 
@@ -242,7 +218,7 @@ Anaconda 4.1.1 (64-bit)”，也说明该发行版默认的环境是 Python 2.7�
 
 ### 编写一些范例
 
-![Python DEMO](PythonDemo.png)
+![Python DEMO](images/PythonDemo.png)
 
 Python DEMO
 
@@ -279,26 +255,5 @@ Python DEMO
 Python 可以让你可以做很多事情，科学计算和数据分析、爬虫、Web
 网站、游戏、命令行实用工具等等等等，总有一个是你感兴趣并且愿意投入时间的。
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[Download Python | Python.org](https://www.python.org/downloads/ "")
-[Download Anaconda Now! | Continuum](https://www.continuum.io/downloads/ "")
-[PyCharm IDE](https://www.jetbrains.com/pycharm/download/ "")
-[Eclipse Downloads](https://www.eclipse.org/downloads/ "")
-[PyDev](http://www.pydev.org/ "")
-[spyder-ide / spyderlib — Bitbucket](https://bitbucket.org/spyder-ide/spyderlib/ "")
-[Sublime Text](http://www.sublimetext.com/3 "")
-[Atom](https://atom.io/ "")
-[Visual Studio Code](https://code.visualstudio.com/Download "")
 
 #::theEnd

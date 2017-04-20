@@ -1,47 +1,26 @@
 % Total Commander - 神器级别的文件资源管理器
 
----
-
-@::id=2
-@::htmlname=TotalCMD
-@::pubtime=2017-02-27 10:10:02
-
-#::文章标题
-
-Total Commander - 神器级别的文件资源管理器
-
-#::文章类别树
-
-软件,文件管理
-
-#::文章类别表
-
-文件管理
-
-#::文章标签
-
 Windows,效率,工作,文件,文件夹,热键,神器,管理
 
-#::适用平台
+---
 
-Windows
+#::Copyright
+
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-02-27 10:10:02 / 2017-04-20 16:58:46
++ 链接 = [Total Commander - 神器级别的文件资源管理器](http://onlookee.com/?c=Article&a=view&id=2)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
+
+#::文章信息
+
++ 类别 = 软件,文件管理
++ 平台 = Windows
++ 官网 = [Total Commander - home](http://www.ghisler.com/ "")
 
 #::截图照片
 
-![](Totalcmd.png)
-
-#::官方网站
-
-[Total Commander - home](http://www.ghisler.com/ "")
-
-#::来源网站
-
-[Total Commander系列教程：TC学堂 | 善用佳软 xbeta.info](http://xbeta.info/studytc/index.htm "")
-[Total Commander - 神器级别的文件资源管理器，优秀到难以用言语去传达？！ | 异次元下载说明](http://www.iplaysoft.com/total-commander.html "")
-
-#::文章摘要
-
-Total Commander（原名Windows Commander）是强大的windows资源管理器终结者。以其使用方便、功能强大、设计体贴、稳定可靠征服了无数电脑老鸟。在接触、了解这个完美的工具后，相信你会和我一样有相见恨晚的感觉。
++ ![](images/Totalcmd.png)
 
 #::文章内容
 
@@ -130,19 +109,5 @@ Commander还可以在压缩包中搜索，直接搜索多个文本文件中指�
 有了Total
 Commander，不但可以让资源处理器走开，而且压缩软件、改名软件、分割软件、FTP软件也可以统统请出硬盘。这个世界清净了！
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[官网下载](http://www.ghisler.com/download.htm "")
-[百度云](http://pan.baidu.com/s/1miqLFXe "kcls")
 
 #::theEnd

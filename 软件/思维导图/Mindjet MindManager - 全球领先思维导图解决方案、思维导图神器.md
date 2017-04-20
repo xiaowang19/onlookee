@@ -1,48 +1,26 @@
 % Mindjet MindManager - 全球领先思维导图解决方案、思维导图神器
 
+
+
 ---
 
-@::id=9
-@::htmlname=MindjetMindManager
-@::pubtime=2017-04-15 13:07:08
+#::Copyright
 
-#::文章标题
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-15 13:07:08 / 2017-04-20 16:58:44
++ 链接 = [Mindjet MindManager - 全球领先思维导图解决方案、思维导图神器](http://onlookee.com/?c=Article&a=view&id=9)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
 
-Mindjet MindManager - 全球领先思维导图解决方案、思维导图神器
+#::文章信息
 
-#::文章类别树
-
-软件,思维导图
-
-#::文章类别表
-
-思维导图
-
-#::文章标签
-
-
-
-#::适用平台
-
-Windows
++ 类别 = 软件,思维导图
++ 平台 = Windows
++ 官网 = [MindManager思维导图中文官网-MindManager 2017中文版,思维导图软件下载](http://www.mindmanager.cc/ "")
 
 #::截图照片
 
-![主界面](MindjetMindManager.png)
-
-#::官方网站
-
-[MindManager思维导图中文官网-MindManager 2017中文版,思维导图软件下载](http://www.mindmanager.cc/ "")
-
-#::来源网站
-
-[Mindjet MindManager\_百度百科](http://baike.baidu.com/link?url=JI-vzxaUzU5DVLcksLFXHj4XH3XNHc7lqCicFIuRM67XqiUp\_avCKNMJFaupWi4rRc5HMoUU\_Rm3lba89D-BB4SuBAwItb0X7q4r3ygBpqy\#7 "")
-
-#::文章摘要
-
-MindManager是一款多功能思维导图绘制软件，如同一个虚拟的白板，仅仅通过单一视图组织头脑风暴、捕捉想法、交流规划信息，有其他软件无法媲美的项目管理和商业规划高级功能。
-
-创建进度表、验证需求、设定优先级，从头脑风暴到预算预测，MindManager提供协调项目与避免障碍所需的功能，无论是简单的小项目还是复杂的创作，都可以通过MindManager创建通往成功的蓝图。
++ ![主界面](images/MindjetMindManager.png)
 
 #::文章内容
 
@@ -111,19 +89,5 @@ PowerPoint, Excel, Outlook, Project 和 Visio中。
 6.  图形共享：可以将您的图形通过Email方式发送给朋友或同事，也可以发布为HTML并张贴到Intranet或Web站点上。
 
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：付费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[百度云](http://pan.baidu.com/s/1pLtxUHX "qj9e")
-[MindManager 2017中文版免费下载-MindManager中文官网](http://www.mindmanager.cc/xiazai.html "")
 
 #::theEnd

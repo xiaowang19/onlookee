@@ -1,53 +1,26 @@
 % Python 资源
 
----
-
-@::id=8
-@::htmlname=PythonResource
-@::pubtime=2017-04-15 13:07:06
-
-#::文章标题
-
-Python 资源
-
-#::文章类别树
-
-Python
-
-#::文章类别表
-
-Python
-
-#::文章标签
-
 Python,指南
 
-#::适用平台
+---
 
-Windows,Mac,Linux
+#::Copyright
+
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-15 13:07:06 / 2017-04-20 16:58:42
++ 链接 = [Python 资源](http://onlookee.com/?c=Article&a=view&id=8)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
+
+#::文章信息
+
++ 类别 = Python
++ 平台 = Windows,Mac,Linux
++ 官网 = [Welcome to Python.org](https://www.python.org/ "")
 
 #::截图照片
 
-![主界面](PythonResource.png)
-
-#::官方网站
-
-[Welcome to Python.org](https://www.python.org/ "")
-
-#::来源网站
-
-[Python学习资料总结 - 知乎专栏](https://zhuanlan.zhihu.com/p/22333205?refer=it1024 "")
-[GitHub - 记录个人自学Python的过程](https://github.com/shfanzie/Systematically\_self-study\_Python "")
-[GitHub - 免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh\_CN\#python "")
-[Python 资源大全 - Python - 伯乐在线](http://python.jobbole.com/84464/?utm\_source=blog.jobbole.com&utm\_medium=relatedPosts "")
-[GitHub - Python资源大全中文版](https://github.com/jobbole/awesome-python-cn "")
-[资源 - 伯乐在线](http://hao.jobbole.com/?catid=144 "")
-[优秀Python学习资源收集汇总（强烈推荐） - Alexia(minmin) - 博客园](http://www.cnblogs.com/lanxuezaipiao/p/3543658.html "")
-[一位大牛整理的Python资源( - frank\_good的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/frank\_good/52635047 "")
-
-#::文章摘要
-
-Python上手虽然容易，但与其它任何语言一样要学好Python并非一日之功。我的Python学习还处在基础阶段，偶尔用Python脚本实现一些简单的功能，平时喜欢收集关于Python的各种技术文档及优秀文章，花了点时间整理出来分享给大家，有基础有进阶有高阶，也有从基础到高手全面学习的资料，有的资料里面也包含了其它许多优秀的资源。每个人的标准不同，也许我的分类不一定准确，希望大家选择性阅读，让你在成长为一名Python高手的路上少走一点弯路。
++ ![主界面](images/PythonResource.png)
 
 #::文章内容
 
@@ -217,18 +190,5 @@ Python上手虽然容易，但与其它任何语言一样要学好Python并非�
     Python代码的内存分析器
 
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[Download Python | Python.org](https://www.python.org/downloads/ "")
 
 #::theEnd

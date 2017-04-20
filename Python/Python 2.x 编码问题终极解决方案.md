@@ -1,51 +1,26 @@
 % Python 2.x 编码问题终极解决方案
 
+Python
+
 ---
 
-@::id=11
-@::htmlname=PythonEncoding
-@::pubtime=2017-04-16 23:17:51
+#::Copyright
 
-#::文章标题
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-16 23:17:51 / 2017-04-20 16:58:41
++ 链接 = [Python 2.x 编码问题终极解决方案](http://onlookee.com/?c=Article&a=view&id=11)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
 
-Python 2.x 编码问题终极解决方案
+#::文章信息
 
-#::文章类别树
-
-Python
-
-#::文章类别表
-
-Python
-
-#::文章标签
-
-Python
-
-#::适用平台
-
-Windows,Mac,Linux
++ 类别 = Python
++ 平台 = Windows,Mac,Linux
++ 官网 = [Welcome to Python.org](https://www.python.org/ "")
 
 #::截图照片
 
-![主界面](PythonEncoding.png)
-
-#::官方网站
-
-[Welcome to Python.org](https://www.python.org/ "")
-
-#::来源网站
-
-[Python 2.x 字符编码终极指南 - Python - 伯乐在线](http://python.jobbole.com/87145/ "")
-[Python 编码终极版 - MR.QiGao - 博客园](http://www.cnblogs.com/zhangqigao/p/6490213.html "")
-[Python 编码问题之终极解决 - fkissx - 博客园](http://www.cnblogs.com/fkissx/p/5417363.html "")
-[26 Python 2.x 字符编码终极指南 - 忧桑的小兔子 - 博客频道 - CSDN.NET](http://blog.csdn.net/lis\_12/54136285 "")
-[Python 编码处理-str 与 Unicode 的区别](http://www.mamicode.com/info-detail-308445.html "")
-[Python 中的 str 与 unicode 处理方法 - Python - 伯乐在线](http://python.jobbole.com/81244/ "")
-
-#::文章摘要
-
-Python 是一门优美简单、功能强大的动态语言。在刚刚接触这门语言时，我们会被其优美的格式、简洁的语法和无穷无尽的类库所震撼。然而，在真正将 Python 应用到实际的项目中，你会遇到一些无法避免的问题，其中之一就是编码问题。
++ ![主界面](images/PythonEncoding.png)
 
 #::文章内容
 
@@ -304,18 +279,5 @@ Python 会隐式地进行编码、解码，默认采用 ascii
 '''
 ```
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[slides/pycon2015cn at master · Liuchang0812/slides · GitHub](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn "")
 
 #::theEnd

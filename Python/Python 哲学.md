@@ -1,51 +1,26 @@
 % Python 哲学
 
----
-
-@::id=6
-@::htmlname=MeetPython
-@::pubtime=2017-04-08 00:46:50
-
-#::文章标题
-
-Python 哲学
-
-#::文章类别树
-
-Python
-
-#::文章类别表
-
-Python
-
-#::文章标签
-
 Python,哲学
 
-#::适用平台
+---
 
-Windows,Mac,Linux
+#::Copyright
+
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-08 00:46:50 / 2017-04-20 16:58:37
++ 链接 = [Python 哲学](http://onlookee.com/?c=Article&a=view&id=6)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
+
+#::文章信息
+
++ 类别 = Python
++ 平台 = Windows,Mac,Linux
++ 官网 = [Welcome to Python.org](https://www.python.org/ "")
 
 #::截图照片
 
-![主界面](MeetPython.png)
-
-#::官方网站
-
-[Welcome to Python.org](https://www.python.org/ "")
-
-#::来源网站
-
-[Python-百度百科](http://baike.baidu.com/link?url=D2KzL2-ZhKNqFGZWS0L8laqsublu-LKBQfLV7UIZ7LCMeaofLKkBmcYVn5BwbAdqcG78N5I\_0zfBwE0ILvp7fa "")
-[Python 简介 | 菜鸟教程](http://www.runoob.com/python/python-intro.html "")
-
-#::文章摘要
-
-Python 是一个高层次的结合了解释性、编译性、互动性和面向对象的动态编程语言。
-Python 的设计具有很强的可读性，相比其他语言经常使用英文关键字，其他语言的一些标点符号，它具有比其他语言更有特色语法结构。
-Python 是一种解释型语言： 这意味着开发过程中没有了编译这个环节。类似于 PHP 和 Perl 语言。
-Python 是交互式语言： 这意味着，您可以在一个 Python 提示符，直接互动执行写你的程序。
-Python 是面向对象语言: 这意味着 Python 支持面向对象的风格或代码封装在对象的编程技术。
++ ![主界面](images/MeetPython.png)
 
 #::文章内容
 
@@ -140,18 +115,5 @@ Python 格言
 -   命名空间是一种绝妙的理念，我们应当多加利用（倡导与号召）
 
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[Download Python | Python.org](https://www.python.org/downloads/ "")
 
 #::theEnd

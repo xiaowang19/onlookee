@@ -1,48 +1,26 @@
 % Python 类库引入机制
 
+Python
+
 ---
 
-@::id=10
-@::htmlname=PythonImport
-@::pubtime=2017-04-15 23:33:16
+#::Copyright
 
-#::文章标题
++ 作者 = xiaowang (xer345@126.com)
++ 时间 = 2017-04-15 23:33:16 / 2017-04-20 16:58:40
++ 链接 = [Python 类库引入机制](http://onlookee.com/?c=Article&a=view&id=10)
++ 版本 = 1.0
++ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
 
-Python 类库引入机制
+#::文章信息
 
-#::文章类别树
-
-Python
-
-#::文章类别表
-
-Python
-
-#::文章标签
-
-Python
-
-#::适用平台
-
-Windows,Mac,Linux
++ 类别 = Python
++ 平台 = Windows,Mac,Linux
++ 官网 = [Welcome to Python.org](https://www.python.org/ "")
 
 #::截图照片
 
-![主界面](PythonImport.png)
-
-#::官方网站
-
-[Welcome to Python.org](https://www.python.org/ "")
-
-#::来源网站
-
-[slides/README.md at master · Liuchang0812/slides · GitHub](https://github.com/Liuchang0812/slides/blob/master/pycon2015cn/README.md "")
-
-#::文章摘要
-
-Python 是一门优美简单、功能强大的动态语言。在刚刚接触这门语言时，我们会被其优美的格式、简洁的语法和无穷无尽的类库所震撼。在真正的将 python 应用到实际的项目中，你会遇到一些无法避免的问题。最让人困惑不解的问题有二类，一个 编码问题，另一个则是引用问题。
-
-本文主要讨论关于 Python 中 import 的机制与实现、以及介绍一些有意思的 Python Hooks。
++ ![主界面](images/PythonImport.png)
 
 #::文章内容
 
@@ -661,18 +639,5 @@ def setup():
     importer.install()
 ```
 
-
-#::下载说明
-
-官方网站：\$(OFFICIAL\_WEBSITE)
-
-软件性质：免费
-
-下载链接：\$(DOWNLOAD\_LINK)
-
-
-#::下载地址
-
-[slides/pycon2015cn at master · Liuchang0812/slides · GitHub](https://github.com/Liuchang0812/slides/tree/master/pycon2015cn "")
 
 #::theEnd
