@@ -11,7 +11,7 @@ Python,哲学
 + 时间 = 2017-04-08 00:46:50 / 2017-04-20 16:58:37
 + 链接 = [Python 哲学](http://onlookee.com/?c=Article&a=view&id=6)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -116,5 +116,9 @@ Python 格言
 -   命名空间是一种绝妙的理念，我们应当多加利用（倡导与号召）
 
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=6](http://onlookee.com/?c=Article&a=download&id=6)
 
 #::theEnd

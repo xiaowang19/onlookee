@@ -11,7 +11,7 @@ Python
 + 时间 = 2017-04-16 23:17:51 / 2017-04-20 16:58:41
 + 链接 = [Python 2.x 编码问题终极解决方案](http://onlookee.com/?c=Article&a=view&id=11)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -280,5 +280,9 @@ Python 会隐式地进行编码、解码，默认采用 ascii
 '''
 ```
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=11](http://onlookee.com/?c=Article&a=download&id=11)
 
 #::theEnd

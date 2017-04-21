@@ -11,7 +11,7 @@ Python,指南
 + 时间 = 2017-04-11 18:25:48 / 2017-04-20 16:58:39
 + 链接 = [Python 学习指南](http://onlookee.com/?c=Article&a=view&id=7)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -256,5 +256,9 @@ Python DEMO
 Python 可以让你可以做很多事情，科学计算和数据分析、爬虫、Web
 网站、游戏、命令行实用工具等等等等，总有一个是你感兴趣并且愿意投入时间的。
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=7](http://onlookee.com/?c=Article&a=download&id=7)
 
 #::theEnd

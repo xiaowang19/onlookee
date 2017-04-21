@@ -11,7 +11,7 @@ Python
 + 时间 = 2017-04-15 23:33:16 / 2017-04-20 16:58:40
 + 链接 = [Python 类库引入机制](http://onlookee.com/?c=Article&a=view&id=10)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -640,5 +640,9 @@ def setup():
     importer.install()
 ```
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=10](http://onlookee.com/?c=Article&a=download&id=10)
 
 #::theEnd

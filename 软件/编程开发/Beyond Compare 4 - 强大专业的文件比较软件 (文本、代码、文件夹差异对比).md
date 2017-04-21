@@ -11,7 +11,7 @@
 + 时间 = 2017-04-02 18:04:05 / 2017-04-20 16:58:46
 + 链接 = [Beyond Compare 4 - 强大专业的文件比较软件 (文本/代码/文件夹差异对比)](http://onlookee.com/?c=Article&a=view&id=4)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -68,5 +68,9 @@ Beyond Compare 提供了 Windows、Mac 和 Linux 版三大平台的支持，在 
 版中，软件支持便携式（绿色）安装，完全不写系统注册表，你可以把 TA
 放到U盘里或者丢到 **云盘** 同步，随时随地进行使用！
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=4](http://onlookee.com/?c=Article&a=download&id=4)
 
 #::theEnd

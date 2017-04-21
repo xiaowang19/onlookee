@@ -11,7 +11,7 @@ Windows,效率,搜索,文件,文件夹,热键,神器,速度
 + 时间 = 2017-02-27 10:33:59 / 2017-04-20 16:58:44
 + 链接 = [Everything - 极速文件搜索神器，快得让人震惊](http://onlookee.com/?c=Article&a=view&id=3)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -60,5 +60,9 @@ XP SP2系统(约20,000份文件)，需要一秒钟。索引一百万份文件则
 
 在搜索框中键入文件或文件夹名称的一部分，结果立刻呈现。
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=3](http://onlookee.com/?c=Article&a=download&id=3)
 
 #::theEnd

@@ -11,7 +11,7 @@ Windows,效率,工作,文件,文件夹,热键,神器,管理
 + 时间 = 2017-02-27 10:10:02 / 2017-04-20 16:58:46
 + 链接 = [Total Commander - 神器级别的文件资源管理器](http://onlookee.com/?c=Article&a=view&id=2)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -110,5 +110,9 @@ Commander还可以在压缩包中搜索，直接搜索多个文本文件中指�
 有了Total
 Commander，不但可以让资源处理器走开，而且压缩软件、改名软件、分割软件、FTP软件也可以统统请出硬盘。这个世界清净了！
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=2](http://onlookee.com/?c=Article&a=download&id=2)
 
 #::theEnd

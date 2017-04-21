@@ -11,7 +11,7 @@
 + 时间 = 2017-04-15 13:07:08 / 2017-04-20 16:58:44
 + 链接 = [Mindjet MindManager - 全球领先思维导图解决方案、思维导图神器](http://onlookee.com/?c=Article&a=view&id=9)
 + 版本 = 1.0
-+ 关于 = [ONLOOKEE](http://onlookee.com/) 一直在分享有价值软件/应用 、Python经验。
++ 关于 = [ONLOOKEE.COM](http://onlookee.com/) 一直在分享有价值的软件/应用 、Python经验。
 
 #::文章信息
 
@@ -90,5 +90,9 @@ PowerPoint, Excel, Outlook, Project 和 Visio中。
 6.  图形共享：可以将您的图形通过Email方式发送给朋友或同事，也可以发布为HTML并张贴到Intranet或Web站点上。
 
 
+
+#::相关下载
+
+[下载地址 = http://onlookee.com/?c=Article&a=download&id=9](http://onlookee.com/?c=Article&a=download&id=9)
 
 #::theEnd
