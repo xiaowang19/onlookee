@@ -67,8 +67,16 @@ Locate32
 只有一个查询输入框，要记住各种查询表达式而言，显然要简单、友好得多。
 
 ![名称和位置](images/Locate32_name_and_pos.png)
+
+名称和位置
+
 ![大小与日期](images/Locate32_size_and_datetime.png)
+
+大小与日期
+
 ![高级筛选](images/Locate32_advance.png)
+
+高级筛选
 
 总结
 ----
