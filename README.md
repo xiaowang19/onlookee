@@ -5,3 +5,6 @@
 你可以在这里找到有用的软件/应用、Python技巧，...
 
 ...
+
+- [Python 资源](Python 资源.md)
+- [Python 资源](Python/Python 资源.md)
